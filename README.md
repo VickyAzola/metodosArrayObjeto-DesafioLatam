@@ -10,4 +10,4 @@ métodos de javascript para modificar u ordenar arreglos y objetos.
 3. **Se imprimen las consultas médicas del arreglo de Dental en la página HTML.**
 4. **Se crea e imprime una lista de todos los pacientes atendidos en el centro médico**
 5. **Se filtran e imprimen en consola los pacientes con previsión ISAPRE de la lista Dental**
-6. **Se filtran e imprimen en consola los pacientes con previsión FONASA de la lista Traumatologíaa**
+6. **Se filtran e imprimen en consola los pacientes con previsión FONASA de la lista Traumatología**
