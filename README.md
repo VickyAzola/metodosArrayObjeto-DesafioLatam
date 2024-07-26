@@ -1,4 +1,4 @@
-# Métodos de Arrys y Objetos
+# Métodos de Arrays y Objetos
 
 Este proyecto maneja la gestión de consultas médicas en el centro médico mediante
 métodos de javascript para modificar u ordenar arreglos y objetos.
