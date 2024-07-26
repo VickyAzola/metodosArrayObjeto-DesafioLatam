@@ -1,7 +1,7 @@
-# Centro Médico - Gestión de Consultas
+# Métodos de Arrys y Objetos
 
-Este proyecto maneja la gestión de consultas médicas en el centro médico, 
-organizadas en diferentes especialidades: Radiología, Traumatología y Dental.
+Este proyecto maneja la gestión de consultas médicas en el centro médico mediante
+métodos de javascript para modificar u ordenar arreglos y objetos.
 
 ## Funcionalidades
 
